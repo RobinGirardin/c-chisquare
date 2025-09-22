@@ -13,7 +13,7 @@ It was not designed as a full statistical package, but rather as a learning exer
 
 ---
 
-## ⚙️ What the Program Does
+## What the Program Does
 
 1. **Reads input data** from a text file (`test_data.txt`), which contains only numbers (no headers, labels, or formatting).
 2. **Stores the data** in a 2D array (`data`).
